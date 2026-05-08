@@ -1,0 +1,6 @@
+victim_id,severity,rescue_time_s,route_risk,path_cost,route_type,survival_est,kits_remaining
+2,critical,3.2,0.0,4,FAST,0.001,8
+1,critical,7.2,0.0,9,FAST,0.001,6
+3,moderate,12.3,0.143,10,FAST,0.223,5
+4,moderate,16.9,0.143,10,FAST,0.258,4
+5,minor,19.8,0.0,6,FAST,0.978,3

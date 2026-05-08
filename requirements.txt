@@ -1,0 +1,18 @@
+# =========================================================
+# AIDRA — Adaptive Intelligent Disaster Response Agent
+# Requirements File
+# =========================================================
+# This project is built entirely using Python standard
+# library modules. No external pip packages are required.
+#
+# Python Version:
+#   Python 3.8 or higher
+#
+# Tkinter Notes:
+#   Tkinter is included with most Python installations.
+#
+# Linux users may need:
+#   sudo apt-get install python3-tk
+# =========================================================
+
+python>=3.8
