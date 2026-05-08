@@ -15,8 +15,8 @@ AIDRA simulates an intelligent emergency response system operating in a dynamic 
 Built for the **AIC-201 Complex Computing Problem (CCP)** under **Dr. Arshad Farhad**, Semester 5-A.
 
 **Developed by:**
-- [Syed Ali Hassan] — [@partnergithub](https://github.com/Ali-Hassan-63)
-- [Muhammad Ahmad] — [@yourgithub](https://github.com/MuhammadAhmad2005)
+- [Syed Ali Hassan] — (https://github.com/Ali-Hassan-63)
+- [Muhammad Ahmad] — (https://github.com/MuhammadAhmad2005)
 
 
 ---
