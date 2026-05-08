@@ -139,7 +139,7 @@ Medical Kits : 10
 
 ```
 AIDRA/
-├── AIDRA_v4_fixed.py          # Main application (single-file)
+├── AIDRA.py          # Main application (single-file)
 ├── aidra_survival_data.csv    # Auto-generated training dataset (300 records)
 ├── aidra_performance_report.csv  # Generated after each simulation run
 └── README.md
