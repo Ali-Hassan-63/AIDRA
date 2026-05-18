@@ -59,7 +59,7 @@ Three classifiers trained **from scratch** (no scikit-learn) on a 300-record syn
 | **Naive Bayes** (Gaussian) | health, urgency, distance, risk | Survival probability |
 | **Decision Tree** (CART, depth=5) | health, urgency, distance, risk | Survival probability |
 
-An **ensemble average** of all three probabilities informs victim prioritization. Full evaluation metrics (Accuracy, Precision, Recall, F1, Confusion Matrix) are computed on an 80/20 train-test split.
+An **ensemble average** of all three probabilities informs victim prioritization fir saving queue. Full evaluation metrics (Accuracy, Precision, Recall, F1, Confusion Matrix) are computed on an 80/20 train-test split.
 
 ---
 
